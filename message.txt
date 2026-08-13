@@ -1,1 +1,1 @@
-its a example of merge conflict version =2.0
+its a example of merge conflict version=1.0 
